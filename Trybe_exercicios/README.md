@@ -10,7 +10,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### _[Bloco 1: Introdução - Unix & Shell](https://github.com/DeividBorges93/first-repository/tree/master/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B1%20-%20Unix%20%26%20Bash)_
 
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
