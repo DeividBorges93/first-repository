@@ -14,7 +14,7 @@
 10. Renomeie a pasta backup2 para backup .
 11. Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
 12. Apague o diretório backup .
-13. Limpe o terminal.
+13. Limpe o terminal. 
 
 ##### Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt :
 
