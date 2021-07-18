@@ -12,8 +12,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### _[Bloco 1: Introdução - Unix & Shell](https://github.com/DeividBorges93/first-repository/tree/master/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B1%20-%20Unix%20%26%20Bash)_
 
-- [X] 1-3: _Unix & Shell- Part 1_
-- [X] 1-4: _Unix & Shell- Part 2_
+- [X] 1-3: _[Unix & Shell- Part 1](https://github.com/DeividBorges93/first-repository/tree/master/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B1%20-%20Unix%20%26%20Bash/Unix%20%26%20Bash%20-%20Parte%201)_
+- [X] 1-4: _[Unix & Shell- Part 2](https://github.com/DeividBorges93/first-repository/tree/master/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B1%20-%20Unix%20%26%20Bash/Unix%20%26%20Bash%20-%20Parte%202)_
 
 ##### Bloco 2: Git & GitHub
 
