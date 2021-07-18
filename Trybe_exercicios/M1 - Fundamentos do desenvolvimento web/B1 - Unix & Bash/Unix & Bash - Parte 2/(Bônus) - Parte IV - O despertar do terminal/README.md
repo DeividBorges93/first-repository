@@ -1,4 +1,4 @@
-##(Bônus) - Parte IV - O despertar do terminal
+## (Bônus) - Parte IV - O despertar do terminal
 ##### E pra terminar com a energia óh, lá no alto, que tal aprender agora alguns comandos divertidos do Unix? ☝ 🎊
 
 1. Abra o terminal e execute o comando sudo apt-get install cmatrix e, depois, execute o comando cmatrix . Quando estiver se sentindo como o Neo , aperte ctrl+c para voltar ao terminal;
