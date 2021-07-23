@@ -1,12 +1,6 @@
 # [first-repository](https://github.com/DeividBorges93/first-repository)
 repository for demo exercises done during my @betrybe course
 
-### [Bloco 1]()
-### [Bloco 2]
-### [Bloco 3](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3)
-
-# first-repository
-study repository
 # Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Deivid Borges](https://www.linkedin.com/in/deivid-borges/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
