@@ -1,2 +1,0 @@
-##Parte 2 - Criar conta no GitHub
-* [Crie sua conta no GitHub usando seu e-mail pessoal](https://github.com/) 🐙
