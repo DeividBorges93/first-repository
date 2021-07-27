@@ -24,10 +24,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### [Bloco 3: Introdução - HTML & CSS](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS)
 
-- [X] [3-1: _HTML & CSS - Estruturas de página_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.1%20-%20HTML%20%26%20CSS%20-%20Estruturas%20de%20p%C3%A1gina)
-- [X] [3-2: _HTML & CSS - Primeiros passos em CSS_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.2%20-%20HTML%20%26%20CSS%20-%20Primeiros%20passos%20em%20CSS)
-- [X] [3-3: _HTML & CSS - Seletores e posicionamento_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.3%20-%20HTML%20%26%20CSS%20-%20Seletores%20e%20posicionamento)
-- [X] [3-4: _HTML Semántico_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.4%20-%20HTML%20%26%20CSS%20-%20HTML%20Sem%C3%A2ntico)
+- [X] 3-1: _[HTML & CSS - Estruturas de página_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.1%20-%20HTML%20%26%20CSS%20-%20Estruturas%20de%20p%C3%A1gina)
+- [X] 3-2: _[HTML & CSS - Primeiros passos em CSS_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.2%20-%20HTML%20%26%20CSS%20-%20Primeiros%20passos%20em%20CSS)
+- [X] 3-3: _[HTML & CSS - Seletores e posicionamento_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.3%20-%20HTML%20%26%20CSS%20-%20Seletores%20e%20posicionamento)
+- [X] 3-4: _[HTML Semántico_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.4%20-%20HTML%20%26%20CSS%20-%20HTML%20Sem%C3%A2ntico)
 - [ ] 3-5: _Projeto - HTML & CSS_
 
 ##### Bloco 4: Introdução - JavaScript
