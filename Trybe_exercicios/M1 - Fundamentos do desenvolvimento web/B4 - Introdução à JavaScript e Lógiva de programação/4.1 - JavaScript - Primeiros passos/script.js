@@ -87,34 +87,47 @@
 //     console.log('Invalid piece');
 // }
 
-                      // EXERCÍCIO 6
-
-let nota = -6;
-
-if (nota > 100 || nota < 0) {
-    console.log('Nota inválida');
-}
-else {
-
-    if (nota >= 90) {
-        console.log('A');
-    }
-    else if (nota >= 80) {
-        console.log('B');
-    }
-    else if (nota >= 70) {
-        console.log('C');
-    }
-    else if (nota >= 60) {
-        console.log('D');
-    }
-    else if (nota >= 50) {
-        console.log('E');
-    }
-    else if (nota < 50 && nota > 0){
-        console.log('F');
-    }
-}
-
                       // EXERCÍCIO 7
 
+// let nota = 0;
+
+// if (nota > 100 || nota < 0) {
+//     console.log('Nota inválida');
+// }
+// else {
+
+//     if (nota >= 90) {
+//         console.log('A');
+//     }
+//     else if (nota >= 80) {
+//         console.log('B');
+//     }
+//     else if (nota >= 70) {
+//         console.log('C');
+//     }
+//     else if (nota >= 60) {
+//         console.log('D');
+//     }
+//     else if (nota >= 50) {
+//         console.log('E');
+//     }
+//     else if (nota < 50 && nota > 0){
+//         console.log('F');
+//     }
+//     else {
+//         console.log(0)
+//     }
+// }
+
+                      // EXERCÍCIO 8
+                      
+let num1 = 5;
+let num2 = 9;
+let num3 = 7;
+
+if (num1 % 2 === 0 || num2 % 2 === 0 || num3 % 2 === 0) {
+    console.log(true)
+}
+else {
+    console.log(false)
+}
