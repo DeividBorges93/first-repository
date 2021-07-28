@@ -45,13 +45,13 @@
 // let numero = 0;
 
 // if (numero > 0) {
-//     console.log("Positive")
+//     console.log("Positive");
 // }
 // else if (numero < 0) {
-//     console.log("Negative")
+//     console.log("Negative");
 // }
 // else {
-//     console.log(0)
+//     console.log(0);
 // }
 
                       // EXERCÍCIO 5
@@ -61,7 +61,7 @@
 // let angleC = 60;
 
 // if (angleA < 0 || angleB < 0 || angleC < 0) {
-//     console.log('Valor inválido!!')
+//     console.log('Valor inválido!!');
 // }
 // else {
 
@@ -78,11 +78,43 @@
 
                       // EXERCÍCIO 6
 
-let chessPiece1 = 'hoRse'.toLowerCase();
+// let chessPiece1 = 'hoRse'.toLowerCase();
 
-if (chessPiece1 === 'horse') {
-    console.log("Movimenta em L")
+// if (chessPiece1 === 'horse') {
+//     console.log("Movimenta em L");
+// }
+// else {
+//     console.log('Invalid piece');
+// }
+
+                      // EXERCÍCIO 6
+
+let nota = -6;
+
+if (nota > 100 || nota < 0) {
+    console.log('Nota inválida');
 }
 else {
-    console.log('Invalid piece')
+
+    if (nota >= 90) {
+        console.log('A');
+    }
+    else if (nota >= 80) {
+        console.log('B');
+    }
+    else if (nota >= 70) {
+        console.log('C');
+    }
+    else if (nota >= 60) {
+        console.log('D');
+    }
+    else if (nota >= 50) {
+        console.log('E');
+    }
+    else if (nota < 50 && nota > 0){
+        console.log('F');
+    }
 }
+
+                      // EXERCÍCIO 7
+
