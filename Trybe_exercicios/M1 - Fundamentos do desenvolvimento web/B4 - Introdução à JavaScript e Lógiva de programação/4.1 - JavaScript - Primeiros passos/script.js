@@ -56,22 +56,33 @@
 
                       // EXERCÍCIO 5
 
-let angleA = 60;
-let angleB = 60;
-let angleC = 60;
+// let angleA = 60;
+// let angleB = 60;
+// let angleC = 60;
 
-if (angleA < 0 || angleB < 0 || angleC < 0) {
-    console.log('Valor inválido!!')
+// if (angleA < 0 || angleB < 0 || angleC < 0) {
+//     console.log('Valor inválido!!')
+// }
+// else {
+
+//     if (angleA + angleB + angleC === 180) {
+//         console.log(true);
+//     }
+//     else if (angleA + angleB + angleC < 180 || angleA + angleB + angleC > 180) {
+//         console.log(false);
+//     }
+//     else {
+//         console.log('Ângulo inválido');
+//     }
+// }    
+
+                      // EXERCÍCIO 6
+
+let chessPiece1 = 'hoRse'.toLowerCase();
+
+if (chessPiece1 === 'horse') {
+    console.log("Movimenta em L")
 }
 else {
-
-    if (angleA + angleB + angleC === 180) {
-        console.log(true);
-    }
-    else if (angleA + angleB + angleC < 180 || angleA + angleB + angleC > 180) {
-        console.log(false);
-    }
-    else {
-        console.log('Ângulo inválido');
-    }
-}    
+    console.log('Invalid piece')
+}
