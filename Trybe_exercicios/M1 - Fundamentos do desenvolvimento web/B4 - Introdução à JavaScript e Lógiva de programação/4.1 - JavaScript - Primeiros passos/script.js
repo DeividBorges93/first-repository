@@ -89,35 +89,30 @@
 
                       // EXERCÍCIO 7
 
-// let nota = 0;
+// let nota = -5;
 
 // if (nota > 100 || nota < 0) {
 //     console.log('Nota inválida');
 // }
-// else {
-
-//     if (nota >= 90) {
-//         console.log('A');
-//     }
-//     else if (nota >= 80) {
-//         console.log('B');
-//     }
-//     else if (nota >= 70) {
-//         console.log('C');
-//     }
-//     else if (nota >= 60) {
-//         console.log('D');
-//     }
-//     else if (nota >= 50) {
-//         console.log('E');
-//     }
-//     else if (nota < 50 && nota > 0){
-//         console.log('F');
-//     }
-//     else {
-//         console.log(0)
-//     }
+// else if (nota >= 90) {
+//     console.log('A');
 // }
+// else if (nota >= 80) {
+//     console.log('B');
+// }
+// else if (nota >= 70) {
+//     console.log('C');
+// }
+// else if (nota >= 60) {
+//     console.log('D');
+// }
+// else if (nota >= 50) {
+//     console.log('E');
+// }
+// else {
+//     console.log('F');
+// }
+    
 
                       // EXERCÍCIO 8
                       
@@ -147,18 +142,32 @@
 
                       // EXERCÍCIO 10
 
-let custoProduto = 100;
-let valorDeVenda = 200;
-let impostoSobreCusto = (20 / 100) * custoProduto;
-let custoFinalDoProduto = custoProduto + impostoSobreCusto;
-let lucroProduto = valorDeVenda - custoFinalDoProduto;
+// let custoProduto = 100;
+// let valorDeVenda = 200;
+// let impostoSobreCusto = (20 / 100) * custoProduto; //20
+// let custoFinalDoProduto = custoProduto + impostoSobreCusto; //120
+// let lucroProduto = valorDeVenda - custoFinalDoProduto;
 
-if (custoProduto < 0 || valorDeVenda < 0) {
-    console.log('Valor 0 não permitido');
-}
-else {
-    console.log(impostoSobreCusto);
-}
+// if (custoProduto < 0 || valorDeVenda < 0) {
+//     console.log('Valor 0 não permitido');
+// }
+// else {
+//     console.log(lucroProduto * 1000);
+// }
+
+                      // EXERCÍCIO 11
+
+
+let salarioBruto = 3000;
+let inss = (11 / 100) * salarioBruto;
+let salarioBase = salarioBruto - inss;
+let aliquotaIr = (7.5 / 100) * salarioBase;
+let parcelaDeduzir = 142.80;
+let impostoRenda = aliquotaIr - parcelaDeduzir;
+let salarioLiquido = salarioBase - impostoRenda;
+
+console.log(salarioLiquido);
+
 
 
 
