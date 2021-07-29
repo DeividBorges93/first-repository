@@ -7,3 +7,12 @@ Antes de começar, você deve seguir estas instruções e fazer o setup para o e
 4.  Não se esqueça de importar esse arquivo na sua página; ✔️
 5.  Depois de importar o arquivo style.css , você já pode remover a tag style do seu documento. ✔️
 6.  Lembre-se que para executar o seu código enquanto o desenvolve você deve utilizar a extensão Live Server , para saber mais sobre ela acesse nosso conteúdo sobre isso. ✔️
+
+## Requisitos
+Seu Portfólio Web deve ter um layout usando Box Model com as informações a seguir:
+* Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos; ✔️
+* A descrição deve ficar ao lado da foto; ✔️
+* Centralize seu nome na página; ✔️
+* Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página; ✔️
+* Adicione margin e padding nos elementos que julgar necessário; ✔️
+* Coloque estilo somente nos itens ímpares da lista das suas habilidades. ✔️
