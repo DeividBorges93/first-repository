@@ -13,5 +13,5 @@ Seu Portfólio Web deve ser estilizado usando as informações a seguir:
 * Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
 
 ## Atualizando seu Portfólio Web para o mundo ver!
-Agora que você estilizou seu Portfólio Web , chegou o momento de atualizar tudo o que você fez e colocar no seu [GitHub Pages!](https://deividborges93.github.io/)
-Para isso, basta você atualizar seu projeto usando o que você aprendeu de Git . 😉
+* Agora que você estilizou seu Portfólio Web , chegou o momento de atualizar tudo o que você fez e colocar no seu [GitHub Pages!](https://deividborges93.github.io/)
+* Para isso, basta você atualizar seu projeto usando o que você aprendeu de Git . 😉
