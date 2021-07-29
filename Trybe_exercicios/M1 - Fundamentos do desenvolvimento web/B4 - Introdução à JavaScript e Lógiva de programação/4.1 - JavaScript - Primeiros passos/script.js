@@ -132,15 +132,34 @@
 //     console.log(false)
 // }
 
-                      // EXERCÍCIO 8
+                      // EXERCÍCIO 9
 
-let num1 = 2;
-let num2 = 6;
-let num3 = 8;
+// let num1 = 2;
+// let num2 = 6;
+// let num3 = 8;
 
-if (num1 % 2 === 1 || num2 % 2 === 1 || num3 % 2 === 1) {
-    console.log(true)
+// if (num1 % 2 === 1 || num2 % 2 === 1 || num3 % 2 === 1) {
+//     console.log(true)
+// }
+// else {
+//     console.log(false)
+// }
+
+                      // EXERCÍCIO 10
+
+let custoProduto = 100;
+let valorDeVenda = 200;
+let impostoSobreCusto = (20 / 100) * custoProduto;
+let custoFinalDoProduto = custoProduto + impostoSobreCusto;
+let lucroProduto = valorDeVenda - custoFinalDoProduto;
+
+if (custoProduto < 0 || valorDeVenda < 0) {
+    console.log('Valor 0 não permitido');
 }
 else {
-    console.log(false)
+    console.log(impostoSobreCusto);
 }
+
+
+
+
