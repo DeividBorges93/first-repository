@@ -142,17 +142,18 @@ else {
 
                       // EXERCÍCIO 10
 
-let custoProduto = 100;
-let valorDeVenda = 200;
-let impostoSobreCusto = (20 / 100) * custoProduto; //20
-let custoFinalDoProduto = custoProduto + impostoSobreCusto; //120
-let lucroProduto = valorDeVenda - custoFinalDoProduto;
+
 
 if (custoProduto < 0 || valorDeVenda < 0) {
     console.log('Valor 0 não permitido');
 }
 else {
-    console.log(lucroProduto * 1000);
+  let custoProduto = 100;
+  let valorDeVenda = 200;
+  let impostoSobreCusto = (20 / 100) * custoProduto; //20
+  let custoFinalDoProduto = custoProduto + impostoSobreCusto; //120
+  let lucroProduto = valorDeVenda - custoFinalDoProduto; 
+  console.log(lucroProduto * 1000);
 }
 
                       // EXERCÍCIO 11
