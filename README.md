@@ -30,11 +30,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-4: [HTML Semántico](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-3/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B3%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20HTML%20%26%20CSS/3.4%20-%20HTML%20%26%20CSS%20-%20HTML%20Sem%C3%A2ntico)
 - [X] 3-5: [Projeto - HTML & CSS](https://github.com/tryber/sd-015-b-project-lessons-learned/tree/deivid-borges-lessons-learned)
 
-##### Bloco 4: Introdução - JavaScript
+##### [Bloco 4: Introdução - JavaScript](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o)
 
 - [X] 4-1: [JavaScript - Primeiros passos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.1%20-%20JavaScript%20-%20Primeiros%20passos)
-- [ ] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [ ] 4-2: _[JavaScript - Array e loop For](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.2%20-%20JavaScript%20-%20Array%20e%20loop%20For)_
+- [ ] 4-3: _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.3%20-%20JavasScript%20-%20Logica%20de%20programa%C3%A7ao%20e%20algoritmos)_
 - [ ] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _Projeto - Playground Functions
 
