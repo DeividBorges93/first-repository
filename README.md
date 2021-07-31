@@ -33,10 +33,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### [Bloco 4: Introdução - JavaScript](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o)
 
 - [X] 4-1: [JavaScript - Primeiros passos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.1%20-%20JavaScript%20-%20Primeiros%20passos)
-- [ ] 4-2: _[JavaScript - Array e loop For](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.2%20-%20JavaScript%20-%20Array%20e%20loop%20For)_
-- [ ] 4-3: _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.3%20-%20JavasScript%20-%20Logica%20de%20programa%C3%A7ao%20e%20algoritmos)_
-- [ ] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _Projeto - Playground Functions
+- [X] 4-2: _[JavaScript - Array e loop For](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.2%20-%20JavaScript%20-%20Array%20e%20loop%20For)_
+- [X] 4-3: _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.3%20-%20JavasScript%20-%20Logica%20de%20programa%C3%A7ao%20e%20algoritmos)_
+- [ ] 4-4: JavaScript - Objetos e funções
+- [ ] 4-5: Projeto - Playground Functions
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
