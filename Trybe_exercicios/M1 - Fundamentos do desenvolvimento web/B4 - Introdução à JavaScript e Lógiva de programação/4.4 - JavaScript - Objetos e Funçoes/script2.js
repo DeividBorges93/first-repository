@@ -21,3 +21,15 @@ function indiceDoMaior (numeros) {
     return indiceMaior;
 }
 console.log(indiceDoMaior([2, 3, 6, 7, 10, 1]));
+
+// 3 - Crie uma função que receba um array de inteiros e retorne o índice do menor valor.
+function indiceDoMenor (numeros) {
+    let indiceMenor = indiceDoMenor.length + 1;
+    for (let indice in numeros) {
+        if (numeros[indiceMenor] > numeros[indice]) {
+            indiceMenor = indice;
+        }
+    }
+    return indiceMenor;
+}
+console.log(indiceDoMenor([2, 4, 6, 7, 10, 0, -3]));
