@@ -33,3 +33,16 @@ function indiceDoMenor (numeros) {
     return indiceMenor;
 }
 console.log(indiceDoMenor([2, 4, 6, 7, 10, 0, -3]));
+
+// 4 - Crie uma função que receba um array de nomes e retorne o nome com a maior quantidade de caracteres.
+function nomeMaior (nomes) {
+    let maiorPalavra = nomes[0];
+    for ( let indice in nomes) {
+        if (maiorPalavra.length < nomes[indice].length) {
+        maiorPalavra = nomes[indice];
+        }
+    }
+    return maiorPalavra;
+}
+console.log(nomeMaior(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']));
+
