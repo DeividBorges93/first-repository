@@ -49,18 +49,49 @@
 //         - document.getElementsByClassName()
       document.getElementsByClassName('title')[0].style.backgroundColor = "rgb(76,164,109)";
 //         - document.getElementsByTagName()
-      document.getElementsByTagName('p')[2].style.textAlign = 'center';
+      document.getElementsByTagName('p')[2].style.textAlign = 'right';
+
 //  Crie uma função que mude o texto na tag <p> para uma descrição de como você se vê daqui a 2 anos. (Não gaste tempo pensando no texto e sim realizando o exercício)
-      document.querySelector('.myText').innerHTML = 'Me vejo atuando na área e tendo bons resultados';
+      function changeText() {
+        let paragrafo = document.getElementsByTagName('p')[1];
+        paragrafo.innerHTML = 'Me vejo atuando na área e tendo bons resultados';
+      }
+      changeText();
 //  Crie uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).
-      document.getElementsByClassName('main-content')[0].style.backgroundColor = 'rgb(76,164,109)';
+      function changeBackgroundColorYellow() {
+       let backgroundYellow = document.getElementsByClassName('main-content')[0];
+       backgroundYellow = backgroundYellow.style.backgroundColor = 'rgb(76,164,109)'
+      }
+      changeBackgroundColorYellow();
 
 //  Crie uma função que mude a cor do quadrado vermelho para branco.
-      document.querySelector('.main-content .center-content ').style.backgroundColor = 'white';
+      function changeBackgroundColorRed() {
+       let squareRed = document.querySelector('.main-content .center-content ');
+       squareRed = squareRed.style.backgroundColor = 'white';
+      }
+      changeBackgroundColorRed();
 //  Crie uma função que corrija o texto da tag <h1>.
+      function correctText() {
+        let newTitle = document.getElementsByClassName('title')[0];
+        newTitle = newTitle.innerText = 'Exercício 5.1 - JavaEscripit '
+      }
+      correctText();
 //  Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
+      function paragraphUpToCase() {
+        let upToCase = document.querySelector('.myText');
+        upToCase.innerHTML = upToCase.innerHTML.toUpperCase();
+      }
+      paragraphUpToCase();
 //  Crie uma função que exiba o conteúdo de todas as tags <p> no console.
-        
+      function showParagraphs() {  
+        let paragraph = document.getElementsByTagName('p');
+        for (index = 0; index < paragraph.length; index += 1) {
+          console.log(paragraph[index].innerHTML);
+
+        }
+      }
+      showParagraphs();
+      
     </script>
   </body>
 </html>
