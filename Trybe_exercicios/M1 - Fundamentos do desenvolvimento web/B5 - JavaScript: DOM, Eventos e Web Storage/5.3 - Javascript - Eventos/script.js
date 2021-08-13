@@ -93,4 +93,21 @@ function createDaysOfTheWeek() {
   
   // Exercicio 5
 
-  
+  let itsFriday = true;
+
+  function toggleFriday() {
+    let fridays = document.getElementsByClassName('friday');
+    let stringSextou = 'SEXTOOU!';
+    let daysFriday = [4, 11, 18, 25];
+    
+    for (index = 0; index < fridays.length; index += 1) {
+      if (itsFriday) {
+        fridays[index].innerHTML = stringSextou;
+        fridays[index].style.color = 'red';
+      } else {
+        fridays[index].innerHTML = daysFriday[index];
+        fridays[index].style.color = '#777';
+      }
+    }
+    itsFriday = !itsFriday;
+  }
