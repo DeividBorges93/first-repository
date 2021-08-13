@@ -23,6 +23,7 @@ function createDaysOfTheWeek() {
     createButtonFriday();
     let buttonFridayClick = document.getElementById('btn-friday');
     buttonFridayClick.addEventListener('click', toggleFriday);
+    zoomDays()
   }
 
   function criaDiaNoCalendario() {
@@ -111,3 +112,15 @@ function createDaysOfTheWeek() {
     }
     itsFriday = !itsFriday;
   }
+
+  // Exercicio 6
+
+  function zoomDays() {
+    let days = document.getElementsByClassName('day');
+    const fontSizePadrao = days[0].style.fontSize;
+    for (day of days) {
+      day.addEventListener('mouseenter', function(event){event.target.style.fontSize = '50px'})
+      day.addEventListener('mouseout', function(event){event.target.style.fontSize = fontSizePadrao})
+    }
+  }
+  
