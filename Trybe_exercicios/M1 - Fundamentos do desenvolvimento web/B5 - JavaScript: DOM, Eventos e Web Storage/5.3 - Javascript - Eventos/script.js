@@ -23,7 +23,9 @@ function createDaysOfTheWeek() {
     createButtonFriday();
     let buttonFridayClick = document.getElementById('btn-friday');
     buttonFridayClick.addEventListener('click', toggleFriday);
-    zoomDays()
+    zoomDays();
+    customTask('Projeto: ');
+    
   }
 
   function criaDiaNoCalendario() {
@@ -122,5 +124,14 @@ function createDaysOfTheWeek() {
       day.addEventListener('mouseenter', function(event){event.target.style.fontSize = '50px'})
       day.addEventListener('mouseout', function(event){event.target.style.fontSize = fontSizePadrao})
     }
+  }
+  
+  // Exercicio 7
+
+  function customTask(task) {
+    let spanTask = document.createElement('span');
+    let myTask = document.querySelector('.my-tasks');
+    spanTask.innerHTML = task;
+    myTask.appendChild(spanTask);
   }
   
