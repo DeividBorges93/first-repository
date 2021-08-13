@@ -17,9 +17,12 @@ function createDaysOfTheWeek() {
 
   function criaCalendario() {
     criaDiaNoCalendario();
-    createButton();
+    createButtonHoliday();
     let buttonHolidayClick = document.getElementById('btn-holiday');
     buttonHolidayClick.addEventListener('click', toggleHoliday);
+    createButtonFriday();
+    let buttonFridayClick = document.getElementById('btn-friday');
+    buttonFridayClick.addEventListener('click', toggleFriday);
   }
 
   function criaDiaNoCalendario() {
@@ -29,13 +32,13 @@ function createDaysOfTheWeek() {
     for (index = 0; index < dezDaysList.length; index += 1) {
       let day = dezDaysList[index];
       let dayItem = document.createElement('li');
-
+      dayItem.style.transition = '0.5s';
       if (day === 14 || day === 31) {
         dayItem.className = 'day holiday';
         dayItem.innerHTML = day;
         getDaysList.appendChild(dayItem);
       } else if (day === 4 || day === 11 || day === 18) {
-        dayItem.className = 'day fryday';
+        dayItem.className = 'day friday';
         dayItem.innerHTML = day;
         getDaysList.appendChild(dayItem);
       } else if (day === 25) {
@@ -52,7 +55,7 @@ function createDaysOfTheWeek() {
 
   // Exercicio 2
 
-  function createButton() {
+  function createButtonHoliday() {
     let buttonHoliday = document.createElement('button');
     let divContainer = document.getElementsByClassName('buttons-container')[0];
     buttonHoliday.id = 'btn-holiday';
@@ -61,6 +64,33 @@ function createDaysOfTheWeek() {
   }
 
   // Exercício 3
+
+  let holidayActive = true;
+
+  function toggleHoliday() {
+    let holidays = document.getElementsByClassName('holiday');
+    let backgroundColor = 'rgb(238,238,238)'
+    let newColor = 'rgb(50, 168, 82)'
+    for (index = 0; index < holidays.length; index += 1) {
+      if (holidayActive) {
+        holidays[index].style.backgroundColor = newColor;
+      } else {
+        holidays[index].style.backgroundColor = backgroundColor;
+      } 
+    }
+    holidayActive = !holidayActive;
+  } 
   
+  // Exercicio 4
+
+  function createButtonFriday() {
+    let buttonFriday = document.createElement('button');
+    let divContainer = document.querySelector('.buttons-container');
+    buttonFriday.id = 'btn-friday';
+    buttonFriday.innerText = 'Sexta-feira';
+    divContainer.appendChild(buttonFriday);
+  }
   
+  // Exercicio 5
+
   
