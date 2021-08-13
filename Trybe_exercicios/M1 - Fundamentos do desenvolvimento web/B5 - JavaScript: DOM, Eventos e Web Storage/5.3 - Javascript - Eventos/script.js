@@ -12,10 +12,16 @@ function createDaysOfTheWeek() {
   };
   
   createDaysOfTheWeek();
-  
-  window.onload = criaDiaNoCalendario;
+  // Exercício 1
+  window.onload = criaCalendario;
 
-  
+  function criaCalendario() {
+    criaDiaNoCalendario();
+    createButton();
+    let buttonHolidayClick = document.getElementById('btn-holiday');
+    buttonHolidayClick.addEventListener('click', toggleHoliday);
+  }
+
   function criaDiaNoCalendario() {
     const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
     let getDaysList = document.getElementById('days');
@@ -43,3 +49,18 @@ function createDaysOfTheWeek() {
       }
     }
   }
+
+  // Exercicio 2
+
+  function createButton() {
+    let buttonHoliday = document.createElement('button');
+    let divContainer = document.getElementsByClassName('buttons-container')[0];
+    buttonHoliday.id = 'btn-holiday';
+    buttonHoliday.innerText = 'Feriados'
+    divContainer.appendChild(buttonHoliday);
+  }
+
+  // Exercício 3
+  
+  
+  
