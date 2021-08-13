@@ -25,6 +25,7 @@ function createDaysOfTheWeek() {
     buttonFridayClick.addEventListener('click', toggleFriday);
     zoomDays();
     customTask('Projeto: ');
+    colorCaption('violet');
     
   }
 
@@ -135,3 +136,13 @@ function createDaysOfTheWeek() {
     myTask.appendChild(spanTask);
   }
   
+  // Exercicio 8
+
+  function colorCaption(color) {
+    let newDiv = document.createElement('div');
+    let divTask = document.querySelector('.task');
+    let myTask = document.querySelector('.my-tasks');
+    newDiv.style.backgroundColor = color;
+    myTask.appendChild(newDiv);
+
+  }
