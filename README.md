@@ -35,24 +35,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-1: [JavaScript - Primeiros passos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.1%20-%20JavaScript%20-%20Primeiros%20passos)
 - [X] 4-2: _[JavaScript - Array e loop For](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.2%20-%20JavaScript%20-%20Array%20e%20loop%20For)_
 - [X] 4-3: _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.3%20-%20JavasScript%20-%20Logica%20de%20programa%C3%A7ao%20e%20algoritmos)_
-- [ ] 4-4: JavaScript - Objetos e funções
-- [ ] 4-5: Projeto - Playground Functions
+- [X] 4-4: JavaScript - Objetos e funções
+- [X] 4-5: Projeto - Playground Functions
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _Projeto - Meme Generator_
-- [ ] 5-6: _Projeto - Arte com Pixels_
-- [ ] 5-7: _Projeto - Lista de tarefas_
-- [ ] 5-7: _Projeto - Adivinhe a Cor()_
-- [ ] 5-7: _Projeto - Carta Misteriosa_
+- [ x] 5-1: _JavaScript - DOM e seletores_
+- [ x] 5-2: _JavaScript - Trabalhando com elementos_
+- [x ] 5-3: _JavaScript - Eventos_
+- [ x] 5-4: _JavaScript - Web Storage_
+- [x ] 5-5: _Projeto - Meme Generator_
+- [x ] 5-6: _Projeto - Arte com Pixels_
+- [x ] 5-7: _Projeto - Lista de tarefas_
+- [x ] 5-7: _Projeto - Adivinhe a Cor()_
+- [x ] 5-7: _Projeto - Carta Misteriosa_
 
 ##### Bloco 6: HTML & CSS avanÃ§ado
 
-- [ ] 6-1: _HTML & CSS - Forms_
+- [x ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
