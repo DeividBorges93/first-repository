@@ -40,15 +40,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ x] 5-1: _JavaScript - DOM e seletores_
-- [ x] 5-2: _JavaScript - Trabalhando com elementos_
-- [x ] 5-3: _JavaScript - Eventos_
-- [ x] 5-4: _JavaScript - Web Storage_
-- [x ] 5-5: _Projeto - Meme Generator_
-- [x ] 5-6: _Projeto - Arte com Pixels_
-- [x ] 5-7: _Projeto - Lista de tarefas_
-- [x ] 5-7: _Projeto - Adivinhe a Cor()_
-- [x ] 5-7: _Projeto - Carta Misteriosa_
+- [X] 5-1: _JavaScript - DOM e seletores_
+- [x] 5-2: _JavaScript - Trabalhando com elementos_
+- [x] 5-3: _JavaScript - Eventos_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _Projeto - Meme Generator_
+- [x] 5-6: _Projeto - Arte com Pixels_
+- [x] 5-7: _Projeto - Lista de tarefas_
+- [x] 5-7: _Projeto - Adivinhe a Cor()_
+- [x] 5-7: _Projeto - Carta Misteriosa_
 
 ##### Bloco 6: HTML & CSS avanÃ§ado
 
