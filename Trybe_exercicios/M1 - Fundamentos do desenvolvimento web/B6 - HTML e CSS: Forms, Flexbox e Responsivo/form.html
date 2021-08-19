@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Currículo</title>
+</head>
+<body>
+  <header>
+    <h1>Currículo</h1>
+  </header>
+<form>
+  <fieldset>
+    <div>
+      <label for="name">Nome: 
+        <input class="values" type="text" id="name" name="name" placeholder="Digite seu nome..." maxlength="40" required>
+      </label>
+    </div>
+    <div>
+      <label for="email">E-mail: 
+        <input class="values" type="email" id="email" name="email" placeholder="Digite seu e-mail..." maxlength="50" required>
+      </label>
+    </div>
+    <div>
+      <label for="cpf">CPF: 
+        <input class="values" type="text" id="cpf" name="cpf" placeholder="Digite seu CPF..." maxlength="11" required>
+      </label>
+    </div>
+    <div>
+      <label for="endereço">Endereço: 
+        <input class="values" type="text" id="endereço" name="endereço" placeholder="Digite seu endereço..." maxlength="200" required>
+      </label>
+    </div>
+    <div>
+      <label for="cidade">Cidade: 
+        <input class="values" type="text" id="cidade" name="cidade" placeholder="Digite sua cidade..." maxlength="28" required>
+      </label>
+    </div>
+    <div>
+      <label for="estado">Estado: 
+        <select class="values" type="" id="estado" name="estado" placeholder="Digite seu estado..." required></select>
+      </label>
+    </div>
+    <div id="residence">
+      <label for="house">
+       <input class="values" type="radio" id="house" name="residence" required>Casa
+      </label>
+    </div>
+    <div id="residence">
+      <label for="apartment">
+        <input class="values" type="radio" id="apartment" name="residence" required>Apartamento
+      </label>
+    </div>
+  </fieldset>
+  <fieldset>
+    <div>
+      <textarea class="values" name="resume-summary" id="resume-summary" cols="30" rows="10" placeholder="Resumo do seu currículo..." maxlength="1000" required></textarea>
+    </div>
+    <div>
+      <label for="office">Cargo: 
+        <input class="values" type="text" name="office" id="office" placeholder="Digite seu cargo..." required>
+      </label>
+    </div>
+    <div>
+      <label for="office-description">
+        <input class="values" type="text" maxlength="500" name="office-description" id="office-description" placeholder="Descrição do cargo...">
+      </label>
+    </div>
+    <div>
+      <label for="">Data:
+        <input class="values" type="text" id= 'date' required>
+      </label>
+    </div>
+  </fieldset>
+  <input type="submit" id="submit-input">
+</form>
+<br>
+<button type="submit" id="prevent-default">Default</button>
+  <script src="script.js"></script>
+  <div id="backup">
+
+  </div>
+</body>
+</html>
