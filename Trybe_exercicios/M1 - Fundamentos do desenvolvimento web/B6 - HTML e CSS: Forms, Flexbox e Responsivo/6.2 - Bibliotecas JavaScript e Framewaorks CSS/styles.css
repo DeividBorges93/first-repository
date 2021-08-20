@@ -1,18 +1,7 @@
-header h1 {
-  text-align: center;
+#body {
+  background-color: rgb(215, 233, 222);
+  
 }
-fieldset {
-  margin: 20px;
-}
-div {
-  margin: 20px 20px;
-}
-#residence {
-  display: inline;
-}
-#resume-summary {
-  width: 100%;
-}
-#office-description {
-  width: 100%;
+.validate {
+  font-family: 'Roboto Condensed', sans-serif;
 }
