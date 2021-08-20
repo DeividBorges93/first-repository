@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="node_modules/materialize-css/dist/css/materialize.min.css">
+  <title>Currículo</title>
+</head>
+<body>
+  <header>
+    <h1>Currículo</h1>
+  </header>
+<div class="row">
+  <form class="col s12" action="#">
+    <div class="row">
+      <div class="input-field col s6">  
+          <input class="values validate" type="text" id="name" name="name" maxlength="40" required>
+          <label for="name">Nome:</label>
+      </div>
+    </div>  
+    <div class="row">
+      <div class="input-field col s12">
+        <input class="values validate" type="email" id="email" name="email" maxlength="50" required>
+        <label for="email">E-mail:</label>
+      </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s6">
+          <input class="values validate" type="text" id="cpf" name="cpf" maxlength="11" required>
+          <label for="cpf">CPF:</label>
+        </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input class="values validate" type="text" id="endereço" name="endereço" maxlength="200" required>
+        <label for="endereço">Endereço:</label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input class="values validate" type="text" id="cidade" name="cidade" maxlength="28" required>
+        <label for="cidade">Cidade:</label>
+      </div>
+    </div>  
+    <div class="row">
+      <div class="input-field col s6">
+        <select class="values" type="" id="estado" name="estado" placeholder="Digite seu estado..." required></select>
+        <label for="estado">Estado:</label>
+      </div>
+    </div>
+    <p>
+      <label for="house">
+        <input class="values validate" type="radio" id="house" name="group1" required>
+        <span>Casa</span>
+      </label>
+    </p>
+    <p>
+      <label for="apartment">
+        <input class="values" type="radio" id="apartment" name="group1" required>
+        <span>Apartamento</span>
+      </label>
+    </p>  
+    <div class="row">
+      <div class="input-field col s6">
+        <textarea class="values" name="resume-summary" id="resume-summary" cols="30" rows="10" placeholder="Resumo do seu currículo..." maxlength="1000" required></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input class="values validate" type="text" name="office" id="office" required>
+        <label for="office">Cargo:</label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input class="values validate" type="text" maxlength="500" name="office-description" id="office-description" placeholder="Descrição do cargo...">
+        <label for="office-description">
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s12">
+        <input class="values validate" type="text" id= 'date' required>
+        <label for="date">Data:</label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input type="submit" id="submit-input">
+      </div>
+    </div>  
+  </form>
+</div>
+<br>
+  <!-- <script src="script.js"></script> -->
+  <div id="backup">
+
+  </div>
+</body>
+</html>

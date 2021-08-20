@@ -1,0 +1,18 @@
+header h1 {
+  text-align: center;
+}
+fieldset {
+  margin: 20px;
+}
+div {
+  margin: 20px 20px;
+}
+#residence {
+  display: inline;
+}
+#resume-summary {
+  width: 100%;
+}
+#office-description {
+  width: 100%;
+}
