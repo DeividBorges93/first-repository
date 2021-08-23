@@ -12,10 +12,12 @@ body {
 .header-container {
   background-color: #5C687C;
   display: flex;
+  flex-basis: 500px;
 }
 
 .logo-container {
   display: flex;
+  flex-basis: 268px;
   justify-content: center;
 }
 
