@@ -2,7 +2,7 @@ $(document).ready(function(){
   $('select').formSelect();
 });
 
-document.getElementById('date').DatePickerX.init();
+document.getElementById('date').DatePickerX.init({format: 'dd/mm/yyyy', mondayFirst: false});
 
 new window.JustValidate('.js-form', {
   rules: {
