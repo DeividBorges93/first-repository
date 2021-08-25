@@ -35,28 +35,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-1: [JavaScript - Primeiros passos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.1%20-%20JavaScript%20-%20Primeiros%20passos)
 - [X] 4-2: _[JavaScript - Array e loop For](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.2%20-%20JavaScript%20-%20Array%20e%20loop%20For)_
 - [X] 4-3: _[JavaScript - Lógica de Programação e Algoritmos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.3%20-%20JavasScript%20-%20Logica%20de%20programa%C3%A7ao%20e%20algoritmos)_
-- [X] 4-4: JavaScript - Objetos e funções
-- [X] 4-5: Projeto - Playground Functions
+- [X] 4-4: [JavaScript - Objetos e funções](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-4/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3giva%20de%20programa%C3%A7%C3%A3o/4.4%20-%20JavaScript%20-%20Objetos%20e%20Fun%C3%A7oes)
+- [X] 4-5: [Projeto - Playground Functions](https://github.com/tryber/sd-015-b-project-playground-functions/tree/deivid-borges-playground-functions)
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [X] 5-1: _JavaScript - DOM e seletores_
-- [x] 5-2: _JavaScript - Trabalhando com elementos_
-- [x] 5-3: _JavaScript - Eventos_
+- [X] 5-1: [JavaScript - DOM e seletores_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-5/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B5%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/5.1%20-%20JavaScript%20-%20DOM%20e%20seletores)
+- [x] 5-2: [JavaScript - Trabalhando com elementos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-5/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B5%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/5.2%20-%20JavaScript%20-%20Trabalhando%20com%20elementos)
+- [x] 5-3: [JavaScript - Eventos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-5/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B5%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/5.3%20-%20Javascript%20-%20Eventos)
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _Projeto - Meme Generator_
-- [x] 5-6: _Projeto - Arte com Pixels_
-- [x] 5-7: _Projeto - Lista de tarefas_
-- [x] 5-7: _Projeto - Adivinhe a Cor()_
-- [x] 5-7: _Projeto - Carta Misteriosa_
+- [ ] 5-5: _Projeto - Meme Generator_
+- [x] 5-6: [Projeto - Arte com Pixels](https://github.com/tryber/sd-015-b-project-pixels-art/tree/deivid-borges-project-pixels-art)
+- [x] 5-7: [Projeto - Lista de tarefas](https://github.com/tryber/sd-015-b-project-todo-list/tree/deivid-borges-todo-list-project)
+- [ ] 5-7: _Projeto - Adivinhe a Cor()_
+- [ ] 5-7: _Projeto - Carta Misteriosa_
 
 ##### Bloco 6: HTML & CSS avanÃ§ado
 
-- [x] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsivo - Mobile First_
+- [x] 6-1: [HTML & CSS - Forms](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.1%20-%20HTML%20e%20CSS:%20Forms)
+- [x] 6-2: [Bibliotecas JavaScript e Frameworks CSS](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.2%20-%20Bibliotecas%20JavaScript%20e%20Framewaorks%20CSS)
+- [x] 6-3: [CSS Flexbox - Part 1](https://github.com/tryber/exercise-tech-gallery/pull/205)
+- [x] 6-4: [CSS Flexbox - Part 2](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.4%20-%20CSS%20Flexbox%20-%20Parte%20II)
+- [x] 6-5: [CSS Responsivo - Mobile First](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.5%20-%20CSS%20Repesponsivo%20-%20Mobile%20first)
 - [ ] 6-6: _Projeto - PÃ¡gina inicial do Facebook_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
