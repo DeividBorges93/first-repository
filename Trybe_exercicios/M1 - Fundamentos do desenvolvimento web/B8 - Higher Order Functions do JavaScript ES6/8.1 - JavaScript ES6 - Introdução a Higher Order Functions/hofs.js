@@ -16,11 +16,33 @@ console.log(newEmployees(newPerson));
 
 // Exercício 2
 
-const checaSorteio = (playerNum, drawnNum) => playerNum === drawnNum;
+const checarSorteio = (playerNum, drawnNum) => playerNum === drawnNum;
 
 const generateRandomNumber = (playerNum, checaSorteio) => {
   const number = Math.floor((Math.random() * 5) + 1);
   return checaSorteio(playerNum, number) ? 'Parabéns, você ganhou!!' : 'Não foi dessa vez!'
 };
 
-console.log(generateRandomNumber(2, checaSorteio));
+console.log(generateRandomNumber(2, checarSorteio));
+
+// Exercício 3
+
+const right_answers = ['A', 'C', 'B', 'D', 'A', 'A', 'D', 'A', 'D', 'C'];
+const student_answers = ['A', 'N.A', 'B', 'D', 'A', 'C', 'N.A', 'A', 'D', 'B'];
+
+const sumNote = (rigthAnswers, studentAnswers, action) => {
+  let nota = 0;
+  for (let index = 0; index <= rigthAnswers.length; index += 1) {
+    const actionReturn = action(rigthAnswers[index], studentAnswers[index]);
+    nota += actionReturn;
+  }
+  return `Resultado: ${nota} questões correstas.`
+}
+console.log(sumNote(right_answers, student_answers, (rAnswers, uAnswers) => {
+  if (rAnswers === uAnswers) {
+    return 1;
+  } if (uAnswers === 'N.A') {
+    return 0;
+  } 
+  return -0.5;
+}));
