@@ -13,3 +13,14 @@ const newEmployees = (callback) => {
   return employees;
 };
 console.log(newEmployees(newPerson));
+
+// Exercício 2
+
+const checaSorteio = (playerNum, drawnNum) => playerNum === drawnNum;
+
+const generateRandomNumber = (playerNum, checaSorteio) => {
+  const number = Math.floor((Math.random() * 5) + 1);
+  return checaSorteio(playerNum, number) ? 'Parabéns, você ganhou!!' : 'Não foi dessa vez!'
+};
+
+console.log(generateRandomNumber(2, checaSorteio));
